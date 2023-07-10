@@ -26,15 +26,6 @@
     "test.unit.ui": "vitest --ui components",
     "qwik": "qwik"
   },
-  "dependencies": {
-    "@builder.io/qwik": "1.1.5",
-    "@builder.io/qwik-city": "1.1.5",
-    "@fontsource-variable/inter": "5.0.3",
-    "@unpic/qwik": "0.0.20",
-    "gray-matter": "4.0.3",
-    "markdown-it": "13.0.1",
-    "node-fetch": "3.3.1"
-  },
   "devDependencies": {
     "@builder.io/partytown": "0.8.0",
     "@builder.io/qwik": "1.2.6",
